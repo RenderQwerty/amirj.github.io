@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Amir H. Jadidinejad"
-resume_title:                   "Machine (Deep) Learning Engineer"
+resume_title:                   "Machine Learning Engineer"
 resume_contact_email:
   "amir.jadidi@yahoo.com"
 
@@ -38,7 +38,7 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/jadidinejad"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "www.linkedin.com/in/amirhj2"
+  resume_linkedin_url:          "http://www.linkedin.com/in/jadidinejad"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://amirj.github.io"
 
