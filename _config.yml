@@ -40,7 +40,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "http://www.linkedin.com/in/jadidinejad"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://amirj.github.io"
+  # resume_website_url:           "http://amirj.github.io"
+  resume_google_scholar_url:    "https://scholar.google.com/citations?user=wkt2CuQAAAAJ&hl=en&oi=ao"
 
 # Design settings
 resume_theme:                   default
